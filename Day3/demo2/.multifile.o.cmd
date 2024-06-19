@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo2/multifile.o := ld -m elf_x86_64 -z noexecstack   -r -o /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo2/multifile.o @/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo2/multifile.mod 

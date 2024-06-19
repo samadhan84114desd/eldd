@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.ko /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.o /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.mod.o;  true

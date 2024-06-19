@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day7/pchar_fifo.mod := printf '%s\n'   pchar_fifo.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day7/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day7/pchar_fifo.mod

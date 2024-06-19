@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/modules.order := {   echo /home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/pchar.ko; :; } > /home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/modules.order

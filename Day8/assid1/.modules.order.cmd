@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/modules.order := {   echo /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.ko; :; } > /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/modules.order

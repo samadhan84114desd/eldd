@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo4/demo.mod := printf '%s\n'   demo.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo4/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo4/demo.mod

@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.mod := printf '%s\n'   file1.o file2.o file3.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.mod

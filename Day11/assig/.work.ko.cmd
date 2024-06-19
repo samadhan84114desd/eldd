@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day11/assig/work.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/samadhan/Desktop/DESD/Classwork/DD/Day11/assig/work.ko /home/samadhan/Desktop/DESD/Classwork/DD/Day11/assig/work.o /home/samadhan/Desktop/DESD/Classwork/DD/Day11/assig/work.mod.o;  true

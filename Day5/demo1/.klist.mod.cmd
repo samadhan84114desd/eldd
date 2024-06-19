@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day5/demo1/klist.mod := printf '%s\n'   klist.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day5/demo1/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day5/demo1/klist.mod

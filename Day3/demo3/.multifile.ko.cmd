@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.ko /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.o /home/samadhan/Desktop/DESD/Classwork/DD/Day3/demo3/multifile.mod.o;  true

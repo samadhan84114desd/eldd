@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/Ioctl/ioctl.mod := printf '%s\n'   ioctl.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day8/Ioctl/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day8/Ioctl/ioctl.mod

@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.mod := printf '%s\n'   pchar.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day8/MultiDev/pchar.mod

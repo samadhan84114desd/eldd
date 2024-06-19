@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day9/spinlock/Module.symvers :=  sed 's/ko$$/o/'  /home/samadhan/Desktop/DESD/Classwork/DD/Day9/spinlock/modules.order | scripts/mod/modpost -m -a    -o /home/samadhan/Desktop/DESD/Classwork/DD/Day9/spinlock/Module.symvers -e -i Module.symvers -T - 

@@ -1,0 +1,1 @@
+cmd_/home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/pchar.mod := printf '%s\n'   pchar.o | awk '!x[$$0]++ { print("/home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/"$$0) }' > /home/samadhan/Desktop/DESD/Classwork/DD/Day8/waitq/pchar.mod
